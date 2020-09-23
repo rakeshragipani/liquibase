@@ -1,5 +1,5 @@
 --liquibase formatted sql
---changeset devopsadmin:1
+--changeset devopsadmin:2
 create table develop1 ( 
 id int primary key,
 name varchar(255),
